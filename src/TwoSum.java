@@ -1,6 +1,6 @@
 public class TwoSum {
     public static void main(String[] args) {
-        int[] arr = {2,7,10,6,4,8};
+        int[] arr = {2,10,6,7,4,8};
         int target = 9;
         twosum(arr, target);
     }
